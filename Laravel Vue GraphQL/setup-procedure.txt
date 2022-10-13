@@ -1,0 +1,28 @@
+laravel new GrabA
+npm uninstall laravel-vite-plugin
+npm uninstall vite
+npm install laravel-mix --save-dev
+composer require laravel/ui
+php artisan ui vue
+php artisan ui vue --auth
+npm i @babel/core
+npm i @babel/eslint-parser
+npm i vue@^2.7.10
+npm install -D vue-loader@^15.9.8
+npm i vue-template-compiler@^2.7.10
+npm uninstal @vitejs/plugin-vue
+npm i webpack
+npm i webpack-cli
+npm update vue-loader
+npm i vue-router@^3.1.3
+npm install vue bootstrap bootstrap-vue
+
+composer require nuwave/lighthouse
+php artisan vendor:publish --tag=lighthouse-schema
+composer require mll-lab/laravel-graphiql
+
+npm i graphql
+npm i graphql-tag
+
+npm i vue-apollo
+npm i apollo-boost
